@@ -14,4 +14,11 @@ Here is our mid-fidelity prototype of what we want our final product to look lik
 
 Here is our prototype separated by UI Hierarchy:
 
-<img width="414.66" height="244.66" alt="image" src="https://github.com/user-attachments/assets/f35f667a-6db3-45e7-a9b8-e782d400ebf5" />
+<img width="416" height="242.66" alt="image" src="https://github.com/user-attachments/assets/f35a470e-75c1-427f-8521-ecf889ce31e9" />
+
+
+Data we need/keeping track of:
+1. User input
+2. Drink info from API (currently viewable from filters)
+3. Cart
+4. Favorites
