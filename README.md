@@ -1,5 +1,7 @@
 # Mia Paulson Process Blog
 
+## Milestone 1
+
 Here is the repository we are using:
 [project1-repo](https://github.com/CDAWGSWAGMAN/ATLS-4630-Project-1)
 
