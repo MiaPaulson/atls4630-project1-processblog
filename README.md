@@ -23,12 +23,20 @@ Data we need/keeping track of:
 4. Favorites
 
 
-## First Milestone
-My job for the first milestone was to work on the Search and Filter section that's "static". I cross-referenced the others' code for my css ideas and little refreshers on react since I'm still super new to it.
+## Milestone 2
+My job for Milestone 2 was to work on the Search and Filter section that's "static". I cross-referenced the others' code for my css ideas and little refreshers on react since I'm still super new to it. I also used our Figma prototype as a reference to make the look of our final product similar. I also used ChatGPT to help with specific CSS coding - I don't know every specific syntax, so I asked for some help with what I was envisioning.
 
-I also used ChatGPT to help with specific CSS coding - I don't know every specific syntax, so I asked for some help with what I was envisioning.
 
-Doing the research for a "dropdown" for sections to specify what the user is looking up in the search bar was a bit confusing. It looks like I'm going to have to make a new branch of the search and filter for the dropdown specifically, like how our cart is set up. So I made a new folder and file inside the SearchFilter section as a new branch.
+Right away I knew I needed:
+1. Searchbar
+2. Dropdown for searchable types
+3. Different filter buttons
+4. Title and header bar
+
+
+The CSS for the Searchbar + Dropdown presented in our Figma was very difficult to do on my own, so ChatGPT was a big helper for this specific task. I figured out that you can hide the outline AND the overflow, making both interactions look like one seemless bar.
+
+Doing the research for a "dropdown" for sections to specify what the user is looking up in the search bar is a bit confusing. It looked like I'm going to have to make a new branch of the search and filter for the dropdown specifically, like how our cart is set up. So I made a new folder and file inside the SearchFilter section as a new branch.
 
 Actually, after coding it, decided to NOT make Dropdown its own page. Just threw it in on the SearchFilter page.
 
