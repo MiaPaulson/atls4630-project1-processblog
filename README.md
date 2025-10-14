@@ -1,4 +1,3 @@
-# atls4630-project1-processblog
 # Mia Paulson Process Blog
 
 Here is the repository we are using:
@@ -24,4 +23,18 @@ Data we need/keeping track of:
 4. Favorites
 
 
-My job for the first milestone was to work on the Search and Filter section that's "static". I cross-referenced the others' code for my css ideas and little refreshers on react since I'm still super new to it. 
+## First Milestone
+My job for the first milestone was to work on the Search and Filter section that's "static". I cross-referenced the others' code for my css ideas and little refreshers on react since I'm still super new to it.
+
+I also used ChatGPT to help with specific CSS coding - I don't know every specific syntax, so I asked for some help with what I was envisioning.
+
+Doing the research for a "dropdown" for sections to specify what the user is looking up in the search bar was a bit confusing. It looks like I'm going to have to make a new branch of the search and filter for the dropdown specifically, like how our cart is set up. So I made a new folder and file inside the SearchFilter section as a new branch.
+
+Actually, after coding it, decided to NOT make Dropdown its own page. Just threw it in on the SearchFilter page.
+
+I think I did it all right?? This is just the first milestone so that's good, but I'm just hoping I'm understanding what to do correclty. Since I was the last one able to work on it, below is what the static page looks like once I'm done:
+
+<img width="952.66" height="519" alt="image" src="https://github.com/user-attachments/assets/ee372eea-8af3-4777-9756-a8d69f0381d5" />
+
+
+Per usual with this code stuff, this part of the assignment (which is the easiest section, compared to the ones my partners did) took me a very long time. But, I'm practicing and getting better!
