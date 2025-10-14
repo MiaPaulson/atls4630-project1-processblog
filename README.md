@@ -22,3 +22,6 @@ Data we need/keeping track of:
 2. Drink info from API (currently viewable from filters)
 3. Cart
 4. Favorites
+
+
+My job for the first milestone was to work on the Search and Filter section that's "static". I cross-referenced the others' code for my css ideas and little refreshers on react since I'm still super new to it. 
