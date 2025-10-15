@@ -48,3 +48,18 @@ I think I did it all right?? This is just the first milestone so that's good, bu
 
 
 Per usual with this code stuff, this part of the assignment (which is the easiest section, compared to the ones my partners did) took me a very long time. But, I'm practicing and getting better!
+
+
+## Milestone 3
+
+Decided to start with State before API. Below are the States used for the InputValue section:
+1. Input - string
+2. Dropdown open/closed - boolean
+3. Dropdown value - button option, one at a time
+4. Filters being used - boolean
+
+I knew I wanted to have the "enter" key be the way to look up specific aspects of the drinks, so I had some convos with ChatGPT to walk me through how to code it and what each section was doing. With the CheckList assignment I had a button be pressed instead, but I wanted to go this extra step for this project. I worked with the boolean states for the CheckList, so that was easy to look back on and figure out how to apply it here.
+
+At first for the filters, I was going to add the values into a list of filters. However, I realized that by doing that I would have to create another functionality to remove the filters from the list. So, I decided instead to have each filter be a boolean of "being used", yes or no. I did a similar style as the Checkbox I used for the last project - when the filter is selected, it changes color to indicate to the user that they have that filter on.
+
+I also made sure that once a dropdown option was chosen, the dropdown disappeared. Right now its position isn't great since it moves along with different computer screens (not always right under the search bar) but I want my groupmates to have my states so I'll wait to fix that until later.
