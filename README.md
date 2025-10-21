@@ -70,4 +70,4 @@ Here is the repository (just posted again down here as a final deliverable) we a
 [project1-repo](https://github.com/CDAWGSWAGMAN/ATLS-4630-Project-1)
 
 Here is the vercel of our app:
-[project1-vercel](][https://atls-4630-project-1.vercel.app/])
+[project1-vercel]([https://atls-4630-project-1.vercel.app/])
