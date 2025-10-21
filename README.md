@@ -63,3 +63,11 @@ I knew I wanted to have the "enter" key be the way to look up specific aspects o
 At first for the filters, I was going to add the values into a list of filters. However, I realized that by doing that I would have to create another functionality to remove the filters from the list. So, I decided instead to have each filter be a boolean of "being used", yes or no. I did a similar style as the Checkbox I used for the last project - when the filter is selected, it changes color to indicate to the user that they have that filter on.
 
 I also made sure that once a dropdown option was chosen, the dropdown disappeared. Right now its position isn't great since it moves along with different computer screens (not always right under the search bar) but I want my groupmates to have my states so I'll wait to fix that until later.
+
+
+### Final Deliverables
+Here is the repository (just posted again down here as a final deliverable) we are using:
+[project1-repo](https://github.com/CDAWGSWAGMAN/ATLS-4630-Project-1)
+
+Here is the vercel of our app:
+[project1-vercel](][https://atls-4630-project-1.vercel.app/])
