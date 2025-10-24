@@ -71,3 +71,14 @@ Here is the repository (just posted again down here as a final deliverable) we a
 
 Here is the vercel of our app:
 [project1-vercel](https://atls-4630-project-1.vercel.app/)
+
+
+## Milestone 4
+
+I loved working with my team! Shoutout to both Cooper and Carter, I feel like I definitely had the easiest section of the project. Especially Cooper, he did most of the work pulling in the API and he absolutely killed it. I really think my biggest "approach" to the project was ultimately just getting more comfortable with React. Having my groupmates be a bit better at it than me gave me the ability to work on my section and learn from theirs. If anything, I contributed the least to the project and am so thankful for the work they put in.
+
+We did a great job of sticking to our goals! We had the static page by Milestone 2 and we had searching, filtering, and directions for the drinks available for Milestone 3. We even completed some of our stretch goals of having a shopping cart for ingredients, and a favorites list. We were unfortunately unable to incorporate the ideas of a random drink and putting in ingredients you already have (although that functionality can translate to the search bar), but I do think our final product had great functionality! I just wish I had more time to really focus on the CSS and bring the user a cooler design.
+
+I really did enjoy learning more about React in this project. Since the language of TS is completely new to me and I only worked with JS in Web freshman year, all of the coding is pretty "fresh" for me and a bit intimidating. But it really was great to work with this group (they are also my Capstone group!) and learn together. We are using React for our final Capstone project, and this class (and this project specifically) have been great springboards for it!
+
+There are definitely a ton of ways we could improve this app further, but I do think we did a great job of getting a working app done! (again, shoutout to Carter and Cooper for carrying!)
